@@ -3,6 +3,55 @@ body {
     background-image: url('arrière_plan.png');
 }
 
+.tete {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+
+.a1 {
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+
+.image {
+    width: 700px;
+
+}
+
+.a2 {
+    width: 30%;
+    margin: ;
+}
+
+.home {
+    display: flex;
+}
+
+.textt {
+    display: flex;
+}
+
+.clic {
+    margin: 20px;
+}
+
+.formulaire {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px auto;
+}
+
+.interm {
+    display: flex;
+    background-color: #021740;
+    justify-content: space-evenly;
+    margin-left: 20px;
+}
+
 footer {
     height: 400px;
 
